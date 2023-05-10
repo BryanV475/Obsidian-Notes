@@ -1,6 +1,6 @@
 Una característica del software por sobre todos los productos es que es abstracto y es de propósito específico.
 
-Se debe garantizar que el producto pase por evaluaciones de características medibles`
+Se debe garantizar que el producto pase por evaluaciones de características medibles
 
 ### Se deben cosiderar los siguientes aspectos para el saeguramiento de la calidad del software:
 	Objetivo: Finalidad de la evaluación que voy a realizar

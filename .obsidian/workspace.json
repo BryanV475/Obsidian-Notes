@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "file": "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "file": "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "file": "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de la seguridad/Ingeniería de la Seguridad.md"
+                "file": "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f6fd94654ee2bae",
+  "active": "369a8044c5da2c14",
   "lastOpenFiles": [
+    "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
     "Aseguramiento de la Calidad/Criterios de Calidad.md",
     "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
     "Desarrollo de Software Seguro/Vulnerabilidades en los Sistemas de Información.md",
     "Definiciones/Troyano.md",
     "Definiciones/Malware.md",
     "Definiciones/Integridad.md",
-    "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
     "Ingeniería de la seguridad/Seguridad.md",
     "Desarrollo de Software Seguro/Desarrollo de Software Seguro.md",
     "Desarrollo de Software Seguro/Integrar la Seguridad en el desarrollo del software.md",
