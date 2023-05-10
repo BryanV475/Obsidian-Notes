@@ -1,0 +1,1 @@
+El riesgo se refiere a la posibilidad de que un evento no deseado ocurra y cause daño a un sistema, proyecto o proceso. Estos eventos pueden ser tecnológicos o no tecnológicos, internos o externos.

@@ -1,0 +1,1 @@
+Es la propiedad de mantener la información privada y protegida contra accesos no autorizados. La confidencialidad implica que solo las personas o entidades autorizadas pueden acceder a la información.

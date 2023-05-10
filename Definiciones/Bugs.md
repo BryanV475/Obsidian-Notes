@@ -1,0 +1,1 @@
+Un "bug" es un término utilizado en la informática para describir un error o defecto en un programa de software que hace que éste funcione de manera incorrecta o inesperada. Los bugs pueden ser causados por errores en el diseño del software, errores de programación, problemas de compatibilidad con otros programas o sistemas operativos, o problemas de configuración del sistema.

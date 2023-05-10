@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "6f6076eec71e6c59",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2975b479eb879cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "369a8044c5da2c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ea8cea76214e202",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdef2536477c67cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6fd94654ee2bae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b2a7e3e81a5bcde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Pre-producción",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0689914e3f357b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "f4dc22d6f82f06f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "82573c33368a73f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc98cba1f00e1f8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b19278b4222c5faa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91c4c6bfb698faee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "762afb4ec48251f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ingeniería de la seguridad/Ingeniería de la Seguridad.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4f6fd94654ee2bae",
+  "lastOpenFiles": [
+    "Aseguramiento de la Calidad/Criterios de Calidad.md",
+    "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
+    "Desarrollo de Software Seguro/Vulnerabilidades en los Sistemas de Información.md",
+    "Definiciones/Troyano.md",
+    "Definiciones/Malware.md",
+    "Definiciones/Integridad.md",
+    "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+    "Ingeniería de la seguridad/Seguridad.md",
+    "Desarrollo de Software Seguro/Desarrollo de Software Seguro.md",
+    "Desarrollo de Software Seguro/Integrar la Seguridad en el desarrollo del software.md",
+    "Fundamentos de Ingeniería de Sofware/Ingeniería de Software.md",
+    "Desarrollo de Videojuegos/Conceptualización de Juego.md",
+    "Definiciones/Honeypots.md",
+    "Definiciones/Vulnerabilidad.md",
+    "Definiciones/Seguridad Informática.md",
+    "Definiciones/Seguridad de la Información.md",
+    "Definiciones/Ingeniería social.md",
+    "Definiciones/Seguridad del Software.md",
+    "Definiciones/Riesgo.md",
+    "Definiciones/Proceso.md",
+    "Definiciones/Error, Defecto y Falla.md",
+    "Definiciones/Disponibilidad.md",
+    "Definiciones/Confidencialidad.md",
+    "Desarrollo de Videojuegos/Concreción de la Idea.md",
+    "Fundamentos de Ingeniería de Sofware",
+    "Desarrollo de Videojuegos/Desarrollo de Videojuegos.md",
+    "Aseguramiento de la Calidad/Cómo asegurar la calidad del software.md",
+    "Untitled.canvas",
+    "Desarrollo de Software Seguro",
+    "Desarrollo de Videojuegos",
+    "Definiciones",
+    "Sistemas Dsitribuidos",
+    "Ingeniería de la seguridad",
+    "Aseguramiento de la Calidad"
+  ]
+}

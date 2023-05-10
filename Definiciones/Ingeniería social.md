@@ -1,0 +1,1 @@
+La ingeniería social es el proceso de manipulación de personas para que divulguen información confidencial o realicen acciones que puedan comprometer la seguridad de un sistema.

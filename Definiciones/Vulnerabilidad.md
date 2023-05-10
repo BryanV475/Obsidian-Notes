@@ -1,0 +1,1 @@
+Una vulnerabilidad es una debilidad en un sistema, proceso o aplicación que puede ser explotada por un atacante para comprometer la seguridad del sistema o acceder a información confidencial, violando la [[Confidencialidad]], la [[Integridad]] y la [[Disponibilidad]] de la información.

@@ -1,0 +1,1 @@
+Se necesitan las especificaciones detalladas sobre los recursos y dispositivos a utilizar para establecer la estructura de la aplicación

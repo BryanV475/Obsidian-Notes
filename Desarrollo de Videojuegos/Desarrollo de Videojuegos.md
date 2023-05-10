@@ -1,0 +1,5 @@
+[[Conceptualización de Juego]]
+[[Videojuegos Indie]]
+[[El Videojuego como un Proyecto de Software]]
+[[Fases en la Producción de un Videojuego]]
+[[Concreción de la Idea]]

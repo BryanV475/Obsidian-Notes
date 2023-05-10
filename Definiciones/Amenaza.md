@@ -1,0 +1,1 @@
+En el contexto de la seguridad informática, una amenaza es cualquier acción, persona o evento que puede poner en peligro la seguridad de un sistema o la información almacenada en él.

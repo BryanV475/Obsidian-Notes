@@ -1,0 +1,8 @@
+- Desarrollo y Comunicacion de Estaciónes de Trabajo
+- No se requiere equipo muy costoso
+- Las estaciones satisfacen las necesidades básicas del usuario
+- Uso de nuevas interfaces
+- Compartición de recursos
+	- Hardware (Impresora, Scanner, etc)
+	- Software (Web Server, Progrmas publicados en la red interna)
+- Crecimiento Modular
