@@ -1,0 +1,3 @@
+- La arquitectura de un sistema es su estructura en términos de componentes especificados por separado y sus interrelaciones
+- El objetivo de una arquitectura general es asegurar que la estructura reunirá demandas presentes e incluso futuras sobre el sistema.
+- Las principales preocupaciones son que el sistema sea [[Fiabilidad|fiable]], [[Manejabilidad|manejable]], [[Adaptabilidad|adaptable]] y [[Rentabilidad|rentable]].

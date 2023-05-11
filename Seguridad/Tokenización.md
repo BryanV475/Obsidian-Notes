@@ -1,0 +1,1 @@
+Técnica que consiste en sustituir los datos sensibles con un identificador único o [[Token|token]]. Los datos originales se almacenan en un lugar seguro, mientras que los tokens se utilizan para procesar los datos en la aplicación.

@@ -4,6 +4,9 @@
 - [[Integrar la Seguridad en el desarrollo del software]]
 
 ## Glosario
+- [[Confidencialidad]]
+- [[Integridad]]
+- [[Disponibilidad]]
 - [[Amenaza]]
 - [[Seguridad del Software]]
 - [[Riesgo]]

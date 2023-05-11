@@ -1,0 +1,1 @@
+Técnica que consiste en ocultar partes de datos sensibles para que solo sean visibles para usuarios autorizados.

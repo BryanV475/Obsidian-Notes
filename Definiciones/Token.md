@@ -1,0 +1,1 @@
+Identificador único que se utiliza para representar un objeto o una entidad, frecuentemente suele ser un conjunto de caracteres generada de forma aleatoria o que se deriva de un valor específico.

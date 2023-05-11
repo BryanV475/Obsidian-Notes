@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6cf9a6ce202c2af6",
+        "id": "9cc1b058182a71e3",
         "type": "tabs",
         "children": [
           {
-            "id": "737c42f5c8b94684",
+            "id": "0b983edbea564aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Distribuidos/Desventajas de las Aplicaciones Distribuidas.md",
+                "file": "Seguridad/Tokenización.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5aa16e60b74ce3f0",
+            "id": "2b917dd1d0eb144b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Ingeniería de Sofware/Ingeniería de Software.md",
+                "file": "Grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de Ingeniería de Sofware/Ingeniería de Software.md",
+                "file": "Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de Ingeniería de Sofware/Ingeniería de Software.md",
+                "file": "Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Ingeniería de Sofware/Ingeniería de Software.md"
+                "file": "Grid.md"
               }
             }
           }
@@ -159,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aa16e60b74ce3f0",
+  "active": "2b917dd1d0eb144b",
   "lastOpenFiles": [
-    "Ingeniería de la seguridad/Amenaza.md",
-    "Sistemas Distribuidos/Diseño de Aplicaciones Dsitribuidas.md",
-    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
-    "Sistemas Distribuidos/Desventajas de las Aplicaciones Distribuidas.md",
-    "Sistemas Distribuidos/Ventajas de las Aplicaciones Distribuidas.md",
-    "Criterios de Calidad/SQuaRE/Seguridad.md",
-    "Aseguramiento de la Calidad/Error, Defecto y Falla.md",
+    "Definiciones/Rendimiento.md",
+    "Sistema Informático.md",
+    "Definiciones/Token.md",
+    "Seguridad/Tokenización.md",
+    "Seguridad/Ofuscación.md",
+    "Seguridad/Enmascaramiento.md",
+    "Seguridad/Encriptación.md",
+    "Seguridad/Desarrollo de Software Seguro/Preservación de la Confidencialidad.md",
+    "Seguridad",
     "Definiciones/Disponibilidad.md",
-    "Ingeniería de la seguridad/Troyano.md",
-    "Definiciones/Vulnerabilidad.md",
-    "Ingeniería de la seguridad/Seguridad Informática.md",
-    "Ingeniería de la seguridad/Seguridad del Software.md",
-    "Ingeniería de la seguridad/Seguridad de la Información.md",
+    "Seguridad/Desarrollo de Software Seguro/Desarrollo de Software Seguro.md",
+    "Seguridad/Desarrollo de Software Seguro/Vulnerabilidades en los Sistemas de Información.md",
+    "Seguridad/Desarrollo de Software Seguro/Principios de Diseño de Seguridad.md",
+    "Seguridad/Desarrollo de Software Seguro/Concientización sobre la seguridad del software.md",
+    "Seguridad/Desarrollo de Software Seguro/Integrar la Seguridad en el desarrollo del software.md",
+    "Seguridad/Desarrollo de Software Seguro/Concepción de la Seguridad en el Desarrollo de Software.md",
+    "Desarrollo de Software Seguro/Untitled",
     "Definiciones/Riesgo.md",
-    "Definiciones/Proceso.md",
-    "Definiciones/Nodo.md",
-    "Definiciones/Malware.md",
-    "Definiciones/Integridad.md",
-    "Ingeniería de la seguridad/Ingeniería social.md",
-    "Definiciones/Confidencialidad.md",
-    "Definiciones/Consistencia.md",
-    "Ingeniería de la seguridad/Honeypots.md",
-    "Criterios de Calidad/SQuaRE/Eficiencia.md",
-    "Criterios de Calidad/Criterios de Calidad de Software.md",
-    "Sistemas Distribuidos/Características de las Aplicaciones Distribuidas.md",
-    "Aseguramiento de la Calidad/Calidad de software.md",
+    "Sistemas Distribuidos/Cluster.md",
+    "Sistemas Distribuidos/Applets.md",
+    "Grid.md",
+    "Sistemas Distribuidos/Peer-to-Peer.md",
+    "Sistemas Distribuidos/Proxy (Servidor).md",
+    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
+    "Sistemas Distribuidos/Modelo Cliente-Servidor.md",
+    "Sistemas Distribuidos/Arquitectura de Aplicaciones Distribuidas.md",
+    "Definiciones/Rentabilidad.md",
+    "Definiciones/Adaptabilidad.md",
     "Criterios de Calidad/SQuaRE",
     "Métricas de Calidad de Software",
     "Criterios de Calidad",
     "Definiciones/Untitled",
     "Fundamentos de Ingeniería de Sofware",
     "Untitled.canvas",
-    "Desarrollo de Software Seguro",
+    "Seguridad/Desarrollo de Software Seguro",
     "Desarrollo de Videojuegos",
-    "Definiciones",
-    "Sistemas Distribuidos",
-    "Ingeniería de la seguridad"
+    "Definiciones"
   ]
 }

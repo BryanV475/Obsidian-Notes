@@ -1,0 +1,1 @@
+Técnica que se utiliza para transformar los datos en un formato que solo se puede leer si se tiene la clave de desencriptación. Los datos encriptados están protegidos en caso de que un atacante obtenga acceso no autorizado a ellos.

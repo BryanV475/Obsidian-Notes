@@ -1,0 +1,1 @@
+Técnica que se utiliza para ocultar el código fuente de una aplicación de forma que sea más difícil para los atacantes analizar y entender el comportamiento del programa. Por ejemplo, cambiar los nombres de variables y funciones para que no sean fáciles de identificar.

@@ -1,0 +1,1 @@
+Capacidad de un producto para proporcionar un valor económico o financiero a sus usuarios y/o propietarios.

@@ -1,0 +1,1 @@
+Facilidad con la que un software puede ser utilizado, administrado, [[Mantenibilidad|mantenido]] y actualizado.
