@@ -4,4 +4,10 @@ Una aplicación distribuida es un tipo de aplicación informática que se compon
 - [[Ventajas de las Aplicaciones Distribuidas]]
 - [[Desventajas de las Aplicaciones Distribuidas]]
 - [[Diseño de Aplicaciones Distribuidas]]
-- 
+- [[Arquitectura de Aplicaciones Distribuidas]]
+- [[Modelo Cliente-Servidor]]
+- [[Proxy (Servidor)]]
+- [[Peer-to-Peer]]
+- [[Cluster]]
+- [[Applets]]
+- [[Grid]]

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seguridad/Tokenización.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b917dd1d0eb144b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Grid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b917dd1d0eb144b",
+  "active": "0b983edbea564aad",
   "lastOpenFiles": [
-    "Definiciones/Rendimiento.md",
     "Sistema Informático.md",
-    "Definiciones/Token.md",
+    "Diseño de Aplicaciones Distribuidas.md",
+    "Grid.md",
+    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
     "Seguridad/Tokenización.md",
+    "Sistemas Distribuidos/Ventajas de las Aplicaciones Distribuidas.md",
+    "Sistemas Distribuidos/Proxy (Servidor).md",
+    "Sistemas Distribuidos/Peer-to-Peer.md",
+    "Sistemas Distribuidos/Desventajas de las Aplicaciones Distribuidas.md",
+    "Sistemas Distribuidos/Cluster.md",
+    "Sistemas Distribuidos/Características de las Aplicaciones Distribuidas.md",
+    "Sistemas Distribuidos/Arquitectura de Aplicaciones Distribuidas.md",
+    "Sistemas Distribuidos/Applets.md",
+    "Definiciones/Rendimiento.md",
+    "Definiciones/Token.md",
     "Seguridad/Ofuscación.md",
     "Seguridad/Enmascaramiento.md",
     "Seguridad/Encriptación.md",
@@ -178,17 +176,6 @@
     "Seguridad/Desarrollo de Software Seguro/Integrar la Seguridad en el desarrollo del software.md",
     "Seguridad/Desarrollo de Software Seguro/Concepción de la Seguridad en el Desarrollo de Software.md",
     "Desarrollo de Software Seguro/Untitled",
-    "Definiciones/Riesgo.md",
-    "Sistemas Distribuidos/Cluster.md",
-    "Sistemas Distribuidos/Applets.md",
-    "Grid.md",
-    "Sistemas Distribuidos/Peer-to-Peer.md",
-    "Sistemas Distribuidos/Proxy (Servidor).md",
-    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
-    "Sistemas Distribuidos/Modelo Cliente-Servidor.md",
-    "Sistemas Distribuidos/Arquitectura de Aplicaciones Distribuidas.md",
-    "Definiciones/Rentabilidad.md",
-    "Definiciones/Adaptabilidad.md",
     "Criterios de Calidad/SQuaRE",
     "Métricas de Calidad de Software",
     "Criterios de Calidad",

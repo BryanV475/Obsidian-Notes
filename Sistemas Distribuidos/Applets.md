@@ -4,7 +4,5 @@ Este código es descargado en el navegador mediante una solicitud, el [[Sistema 
 ## Características
 
 - Lleva a cabo una funcion muy específica
-
 - Proporciona respuestas más interactivas al evitar retrasos por el ancho de banda del [[Sistema Informático#Cliente|cliente]]
-
 - Carece de sesión por lo cual son poco seguros
