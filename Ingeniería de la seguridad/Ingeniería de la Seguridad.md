@@ -1,8 +1,8 @@
 ## Glosario
 - [[Riesgo]]
 - [[Ingeniería social]]
-- [[Seguridad informática]]
-- [[Seguridad de la información]]
+- [[Seguridad Informática]]
+- [[Seguridad de la Información]]
 - [[Amenaza]]
 - [[Vulnerabilidad]]
 - [[Honeypots]]
