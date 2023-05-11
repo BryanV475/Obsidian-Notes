@@ -1,2 +1,0 @@
-- Mayores requerimientos de costos de administración
-- 

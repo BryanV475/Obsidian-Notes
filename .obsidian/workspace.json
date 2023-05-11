@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1da6acb917c3cf",
+        "id": "6cf9a6ce202c2af6",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4dc988b9fdaa51",
+            "id": "737c42f5c8b94684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criterios de Calidad/SQuaRE/Eficiencia.md",
+                "file": "Sistemas Distribuidos/Desventajas de las Aplicaciones Distribuidas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f67d08ef8c6d4038",
+            "id": "5aa16e60b74ce3f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criterios de Calidad/Criterios de Calidad de Software.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "348136e390fabf7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aseguramiento de la Calidad/Calidad de software.md",
+                "file": "Sistemas Distribuidos/Diseño de Aplicaciones Dsitribuidas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aseguramiento de la Calidad/Calidad de software.md",
+                "file": "Sistemas Distribuidos/Diseño de Aplicaciones Dsitribuidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aseguramiento de la Calidad/Calidad de software.md",
+                "file": "Sistemas Distribuidos/Diseño de Aplicaciones Dsitribuidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aseguramiento de la Calidad/Calidad de software.md"
+                "file": "Sistemas Distribuidos/Diseño de Aplicaciones Dsitribuidas.md"
               }
             }
           }
@@ -171,43 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "348136e390fabf7d",
+  "active": "5aa16e60b74ce3f0",
   "lastOpenFiles": [
+    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
+    "Sistemas Distribuidos/Diseño de Aplicaciones Dsitribuidas.md",
+    "Sistemas Distribuidos/Desventajas de las Aplicaciones Distribuidas.md",
+    "Sistemas Distribuidos/Ventajas de las Aplicaciones Distribuidas.md",
     "Criterios de Calidad/SQuaRE/Seguridad.md",
-    "Criterios de Calidad/Criterios de Calidad de Software.md",
+    "Aseguramiento de la Calidad/Error, Defecto y Falla.md",
+    "Definiciones/Disponibilidad.md",
+    "Definiciones/Troyano.md",
+    "Definiciones/Vulnerabilidad.md",
+    "Definiciones/Seguridad Informática.md",
+    "Definiciones/Seguridad del Software.md",
+    "Definiciones/Seguridad de la Información.md",
+    "Definiciones/Riesgo.md",
+    "Definiciones/Proceso.md",
+    "Definiciones/Nodo.md",
+    "Definiciones/Malware.md",
+    "Definiciones/Integridad.md",
+    "Definiciones/Ingeniería social.md",
+    "Definiciones/Confidencialidad.md",
+    "Definiciones/Consistencia.md",
+    "Definiciones/Honeypots.md",
     "Criterios de Calidad/SQuaRE/Eficiencia.md",
-    "Criterios de Calidad/SQuaRE/Fiabilidad.md",
-    "Criterios de Calidad/SQuaRE",
-    "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
-    "Aseguramiento de la Calidad/Cómo asegurar la calidad del software.md",
-    "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
-    "Criterios de Calidad/SQuaRE/Compatibilidad.md",
-    "Criterios de Calidad/SQuaRE/Portabilidad.md",
+    "Criterios de Calidad/Criterios de Calidad de Software.md",
+    "Sistemas Distribuidos/Características de las Aplicaciones Distribuidas.md",
+    "Definiciones/Amenaza.md",
     "Aseguramiento de la Calidad/Calidad de software.md",
-    "Criterios de Calidad/SQuaRE/Mantenibilidad.md",
-    "Criterios de Calidad/SQuaRE/Usabilidad.md",
-    "Criterios de Calidad/SQuaRE/Funcionalidad.md",
-    "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
-    "Ingeniería de la seguridad/Seguridad.md",
-    "Métricas de Calidad de Software/Acoplamiento.md",
-    "Métricas de Calidad de Software/Métricas de Calidad de Software.md",
+    "Criterios de Calidad/SQuaRE",
     "Métricas de Calidad de Software",
-    "Métricas de Calidad de Software/Comentarios en el Código.md",
-    "Métricas de Calidad de Software/Complejidad del Código.md",
-    "Métricas de Calidad de Software/Tiempo Medio entre Fallos.md",
-    "Métricas de Calidad de Software/Tasa de errores encontrados.md",
-    "Métricas de Calidad de Software/Cobertura de Código.md",
-    "Métricas de Calidad de Software/Complejidad Ciclomática.md",
-    "Métricas de Calidad de Software/Cohesión.md",
     "Criterios de Calidad",
     "Definiciones/Untitled",
-    "Definiciones/Proceso.md",
     "Fundamentos de Ingeniería de Sofware",
     "Untitled.canvas",
     "Desarrollo de Software Seguro",
     "Desarrollo de Videojuegos",
     "Definiciones",
-    "Sistemas Dsitribuidos",
+    "Sistemas Distribuidos",
     "Ingeniería de la seguridad"
   ]
 }

@@ -1,0 +1,11 @@
+-   **Interconexión:** Las aplicaciones distribuidas se componen de varios [[Nodo|nodos]] que se comunican a través de una red, utilizando protocolos y tecnologías que les permiten intercambiar información y coordinar sus acciones.
+
+-   **Escalabilidad:** Las aplicaciones distribuidas pueden escalarse horizontalmente, añadiendo más nodos a la red para manejar un mayor volumen de trabajo o peticiones de usuarios.
+
+-   **Tolerancia a fallos:** Las aplicaciones distribuidas están diseñadas para soportar fallos de nodos individuales o componentes sin interrumpir el servicio que ofrecen al usuario final. Esto se logra mediante el uso de técnicas de redundancia, replicación de datos y equilibrio de carga.
+
+-   **Autonomía:** Cada nodo de la aplicación distribuida tiene cierta autonomía para realizar su trabajo, lo que significa que puede tomar decisiones independientes para cumplir con su responsabilidad dentro del sistema.
+
+-   **Heterogeneidad:** Las aplicaciones distribuidas pueden estar compuestas por nodos que utilizan diferentes plataformas, sistemas operativos y lenguajes de programación.
+
+-   **Seguridad:** Las aplicaciones distribuidas deben garantizar la seguridad y privacidad de los datos que se intercambian entre los nodos de la red.

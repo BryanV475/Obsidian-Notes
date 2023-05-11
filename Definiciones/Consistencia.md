@@ -1,0 +1,1 @@
+Propiedad de un sistema de software que garantiza que los datos almacenados en el mismo sean precisos, coherentes y actualizados.
