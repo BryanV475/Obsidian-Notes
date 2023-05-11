@@ -1,0 +1,1 @@
+Se refiere a la capacidad del software para mantener un nivel de rendimiento esperado bajo condiciones específicas durante un período de tiempo determinado, a menudo se relaciona fuertemente con la tolerancia a fallos, una de sus subcaracterísticas.

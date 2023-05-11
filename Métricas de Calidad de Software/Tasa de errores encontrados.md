@@ -1,0 +1,1 @@
+Mide la cantidad de errores encontrados durante las pruebas en relación con la cantidad total de errores presentes en el software. Una alta tasa de errores encontrados indica una mayor calidad de las pruebas.

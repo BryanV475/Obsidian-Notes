@@ -1,0 +1,1 @@
+Se refiere a la capacidad del software para funcionar adecuadamente con otros componentes de software y hardware.

@@ -1,0 +1,1 @@
+Se refiere a la capacidad del software para ser modificado y adaptado a nuevas condiciones y necesidades.

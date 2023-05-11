@@ -1,0 +1,1 @@
+Mide la complejidad del código fuente. Una complejidad del código alta indica una mayor dificultad para entender y mantener el código.

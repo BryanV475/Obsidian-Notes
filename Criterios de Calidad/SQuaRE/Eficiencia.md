@@ -1,0 +1,1 @@
+Se refiere a la capacidad del software para proporcionar un rendimiento adecuado en relación con la cantidad de recursos utilizados.

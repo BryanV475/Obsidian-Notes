@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a2975b479eb879cd",
+        "id": "1f1da6acb917c3cf",
         "type": "tabs",
         "children": [
           {
-            "id": "369a8044c5da2c14",
+            "id": "bd4dc988b9fdaa51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
+                "file": "Criterios de Calidad/SQuaRE/Eficiencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f67d08ef8c6d4038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criterios de Calidad/Criterios de Calidad de Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "348136e390fabf7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aseguramiento de la Calidad/Calidad de software.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
+                "file": "Aseguramiento de la Calidad/Calidad de software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
+                "file": "Aseguramiento de la Calidad/Calidad de software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md"
+                "file": "Aseguramiento de la Calidad/Calidad de software.md"
               }
             }
           }
@@ -146,41 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "369a8044c5da2c14",
+  "active": "348136e390fabf7d",
   "lastOpenFiles": [
-    "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
-    "Aseguramiento de la Calidad/Criterios de Calidad.md",
+    "Criterios de Calidad/SQuaRE/Seguridad.md",
+    "Criterios de Calidad/Criterios de Calidad de Software.md",
+    "Criterios de Calidad/SQuaRE/Eficiencia.md",
+    "Criterios de Calidad/SQuaRE/Fiabilidad.md",
+    "Criterios de Calidad/SQuaRE",
     "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
-    "Desarrollo de Software Seguro/Vulnerabilidades en los Sistemas de Información.md",
-    "Definiciones/Troyano.md",
-    "Definiciones/Malware.md",
-    "Definiciones/Integridad.md",
-    "Ingeniería de la seguridad/Seguridad.md",
-    "Desarrollo de Software Seguro/Desarrollo de Software Seguro.md",
-    "Desarrollo de Software Seguro/Integrar la Seguridad en el desarrollo del software.md",
-    "Fundamentos de Ingeniería de Sofware/Ingeniería de Software.md",
-    "Desarrollo de Videojuegos/Conceptualización de Juego.md",
-    "Definiciones/Honeypots.md",
-    "Definiciones/Vulnerabilidad.md",
-    "Definiciones/Seguridad Informática.md",
-    "Definiciones/Seguridad de la Información.md",
-    "Definiciones/Ingeniería social.md",
-    "Definiciones/Seguridad del Software.md",
-    "Definiciones/Riesgo.md",
-    "Definiciones/Proceso.md",
-    "Definiciones/Error, Defecto y Falla.md",
-    "Definiciones/Disponibilidad.md",
-    "Definiciones/Confidencialidad.md",
-    "Desarrollo de Videojuegos/Concreción de la Idea.md",
-    "Fundamentos de Ingeniería de Sofware",
-    "Desarrollo de Videojuegos/Desarrollo de Videojuegos.md",
     "Aseguramiento de la Calidad/Cómo asegurar la calidad del software.md",
+    "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
+    "Criterios de Calidad/SQuaRE/Compatibilidad.md",
+    "Criterios de Calidad/SQuaRE/Portabilidad.md",
+    "Aseguramiento de la Calidad/Calidad de software.md",
+    "Criterios de Calidad/SQuaRE/Mantenibilidad.md",
+    "Criterios de Calidad/SQuaRE/Usabilidad.md",
+    "Criterios de Calidad/SQuaRE/Funcionalidad.md",
+    "Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+    "Ingeniería de la seguridad/Seguridad.md",
+    "Métricas de Calidad de Software/Acoplamiento.md",
+    "Métricas de Calidad de Software/Métricas de Calidad de Software.md",
+    "Métricas de Calidad de Software",
+    "Métricas de Calidad de Software/Comentarios en el Código.md",
+    "Métricas de Calidad de Software/Complejidad del Código.md",
+    "Métricas de Calidad de Software/Tiempo Medio entre Fallos.md",
+    "Métricas de Calidad de Software/Tasa de errores encontrados.md",
+    "Métricas de Calidad de Software/Cobertura de Código.md",
+    "Métricas de Calidad de Software/Complejidad Ciclomática.md",
+    "Métricas de Calidad de Software/Cohesión.md",
+    "Criterios de Calidad",
+    "Definiciones/Untitled",
+    "Definiciones/Proceso.md",
+    "Fundamentos de Ingeniería de Sofware",
     "Untitled.canvas",
     "Desarrollo de Software Seguro",
     "Desarrollo de Videojuegos",
     "Definiciones",
     "Sistemas Dsitribuidos",
-    "Ingeniería de la seguridad",
-    "Aseguramiento de la Calidad"
+    "Ingeniería de la seguridad"
   ]
 }

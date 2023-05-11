@@ -1,0 +1,1 @@
+Se refiere a la capacidad del software para ser fácil de usar y comprender por el usuario.

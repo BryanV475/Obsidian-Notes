@@ -1,0 +1,1 @@
+Mide la relación entre los módulos del software. Un acoplamiento alto indica que los módulos están estrechamente relacionados y que un cambio en uno de ellos puede afectar a otros módulos.

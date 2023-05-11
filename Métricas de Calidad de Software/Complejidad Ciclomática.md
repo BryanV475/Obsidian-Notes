@@ -1,0 +1,1 @@
+Mide la complejidad del software en términos de la cantidad de caminos independientes que existen en un programa. Una complejidad ciclomática alta indica una mayor complejidad y una mayor probabilidad de errores.

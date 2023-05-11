@@ -1,0 +1,1 @@
+Se refiere a la capacidad del software para proteger la información y los recursos de los usuarios de [[Amenaza|amenazas]] externas y garantizar la privacidad.

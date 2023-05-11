@@ -1,0 +1,1 @@
+Se refiere a la capacidad del software para ser utilizado en diferentes entornos de hardware y software.

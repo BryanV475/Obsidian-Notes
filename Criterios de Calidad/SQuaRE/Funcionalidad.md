@@ -1,0 +1,1 @@
+Se refiere a la capacidad del software para proporcionar funciones que satisfagan las necesidades explícitas e implícitas del usuario

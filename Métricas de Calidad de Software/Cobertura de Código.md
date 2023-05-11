@@ -1,0 +1,1 @@
+Mide la cantidad de código que se ha ejecutado durante las pruebas. Una alta cobertura de código indica una mayor calidad de las pruebas y una mayor probabilidad de encontrar errores.

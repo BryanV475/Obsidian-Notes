@@ -1,0 +1,1 @@
+Mide la cantidad de comentarios en el código fuente. Una cantidad adecuada de comentarios puede mejorar la comprensión y la calidad del software.

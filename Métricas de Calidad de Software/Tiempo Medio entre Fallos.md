@@ -1,0 +1,1 @@
+Mide la cantidad de tiempo que transcurre entre la ocurrencia de dos fallos. Una mayor cantidad de tiempo entre fallos indica una mayor calidad del software.

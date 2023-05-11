@@ -1,0 +1,1 @@
+Mide la relación entre los elementos dentro de un módulo. Una alta cohesión indica que los elementos dentro de un módulo están altamente relacionados y que el módulo tiene una funcionalidad clara y específica.
