@@ -2,6 +2,9 @@
 - [[Concientización sobre la seguridad del software]]
 - [[Vulnerabilidades en los Sistemas de Información]]
 - [[Integrar la Seguridad en el desarrollo del software]]
+- [[Concepción de la Seguridad en el Desarrollo de Software]]
+- [[Principios de Diseño de Seguridad]]
+- [[Preservación de la Confidencialidad]]
 
 ## Glosario
 - [[Confidencialidad]]

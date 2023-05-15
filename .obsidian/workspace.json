@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grid.md",
+                "file": "Seguridad/Ingeniería de la seguridad/Bloc.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Pre-producción",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grid.md",
+                "file": "Seguridad/Ingeniería de la seguridad/Bloc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grid.md",
+                "file": "Seguridad/Ingeniería de la seguridad/Bloc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grid.md"
+                "file": "Seguridad/Ingeniería de la seguridad/Bloc.md"
               }
             }
           }
@@ -146,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b983edbea564aad",
+  "active": "4f6fd94654ee2bae",
   "lastOpenFiles": [
-    "Sistema Informático.md",
-    "Diseño de Aplicaciones Distribuidas.md",
-    "Grid.md",
-    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
-    "Seguridad/Tokenización.md",
-    "Sistemas Distribuidos/Ventajas de las Aplicaciones Distribuidas.md",
-    "Sistemas Distribuidos/Proxy (Servidor).md",
-    "Sistemas Distribuidos/Peer-to-Peer.md",
-    "Sistemas Distribuidos/Desventajas de las Aplicaciones Distribuidas.md",
-    "Sistemas Distribuidos/Cluster.md",
-    "Sistemas Distribuidos/Características de las Aplicaciones Distribuidas.md",
-    "Sistemas Distribuidos/Arquitectura de Aplicaciones Distribuidas.md",
-    "Sistemas Distribuidos/Applets.md",
-    "Definiciones/Rendimiento.md",
-    "Definiciones/Token.md",
-    "Seguridad/Ofuscación.md",
-    "Seguridad/Enmascaramiento.md",
+    "Definiciones/Riesgo.md",
+    "Seguridad/Ingeniería de la seguridad/Bloc.md",
+    "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+    "Seguridad/Ingeniería de la seguridad/Amenaza.md",
+    "Seguridad/Ingeniería de la seguridad/Honeypots.md",
+    "Seguridad/Ingeniería de la seguridad/Ingeniería social.md",
+    "Seguridad/Ingeniería de la seguridad/Seguridad del Software.md",
+    "Seguridad/Ingeniería de la seguridad/Seguridad Informática.md",
+    "Seguridad/Ingeniería de la seguridad/Seguridad de la Información.md",
+    "Seguridad/Ingeniería de la seguridad/Troyano.md",
     "Seguridad/Encriptación.md",
-    "Seguridad/Desarrollo de Software Seguro/Preservación de la Confidencialidad.md",
-    "Seguridad",
-    "Definiciones/Disponibilidad.md",
+    "Seguridad/Enmascaramiento.md",
+    "Seguridad/Ofuscación.md",
+    "Seguridad/Tokenización.md",
+    "Seguridad/Trabajo en pareja.md",
+    "Desarrollo de Videojuegos/Concreción de la Idea II.md",
+    "Desarrollo de Videojuegos/Concreción de la Idea.md",
+    "Desarrollo de Videojuegos/Desarrollo de Videojuegos.md",
+    "Desarrollo de Videojuegos/Conceptualización de Juego.md",
+    "Aseguramiento de la Calidad/Ejemplos de Métricas.md",
+    "Criterios de Calidad/Criterios de Calidad de Software.md",
+    "Definiciones/Integridad.md",
+    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
     "Seguridad/Desarrollo de Software Seguro/Desarrollo de Software Seguro.md",
-    "Seguridad/Desarrollo de Software Seguro/Vulnerabilidades en los Sistemas de Información.md",
-    "Seguridad/Desarrollo de Software Seguro/Principios de Diseño de Seguridad.md",
-    "Seguridad/Desarrollo de Software Seguro/Concientización sobre la seguridad del software.md",
-    "Seguridad/Desarrollo de Software Seguro/Integrar la Seguridad en el desarrollo del software.md",
-    "Seguridad/Desarrollo de Software Seguro/Concepción de la Seguridad en el Desarrollo de Software.md",
+    "Grid.md",
+    "Sistema Informático.md",
+    "Seguridad",
     "Desarrollo de Software Seguro/Untitled",
     "Criterios de Calidad/SQuaRE",
     "Métricas de Calidad de Software",
