@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc1b058182a71e3",
+        "id": "8d224691d8e5eb2a",
         "type": "tabs",
         "children": [
           {
-            "id": "0b983edbea564aad",
+            "id": "b1c861aa5dda2c1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seguridad/Ingeniería de la seguridad/Bloc.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad/Ingeniería de la seguridad/Bloc.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seguridad/Ingeniería de la seguridad/Bloc.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seguridad/Ingeniería de la seguridad/Bloc.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,12 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f6fd94654ee2bae",
+  "active": "b1c861aa5dda2c1f",
   "lastOpenFiles": [
-    "Definiciones/Riesgo.md",
+    "Untitled.md",
+    "Criterios de Calidad/Criterios de Calidad de Software.md",
+    "Aseguramiento de la Calidad/Pruebas de Usabilidad.md",
+    "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
+    "Aseguramiento de la Calidad/Cómo asegurar la calidad del software.md",
+    "Aseguramiento de la Calidad/Ejemplos de Métricas.md",
+    "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
+    "Aseguramiento de la Calidad/Calidad de software.md",
+    "Aseguramiento de la Calidad/Error, Defecto y Falla.md",
+    "Desarrollo de Videojuegos/Concreción de la Idea II.md",
     "Seguridad/Ingeniería de la seguridad/Bloc.md",
     "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
     "Seguridad/Ingeniería de la seguridad/Amenaza.md",
+    "Seguridad/Riesgo.md",
+    "Seguridad/Vulnerabilidad.md",
     "Seguridad/Ingeniería de la seguridad/Honeypots.md",
     "Seguridad/Ingeniería de la seguridad/Ingeniería social.md",
     "Seguridad/Ingeniería de la seguridad/Seguridad del Software.md",
@@ -163,17 +174,6 @@
     "Seguridad/Ofuscación.md",
     "Seguridad/Tokenización.md",
     "Seguridad/Trabajo en pareja.md",
-    "Desarrollo de Videojuegos/Concreción de la Idea II.md",
-    "Desarrollo de Videojuegos/Concreción de la Idea.md",
-    "Desarrollo de Videojuegos/Desarrollo de Videojuegos.md",
-    "Desarrollo de Videojuegos/Conceptualización de Juego.md",
-    "Aseguramiento de la Calidad/Ejemplos de Métricas.md",
-    "Criterios de Calidad/Criterios de Calidad de Software.md",
-    "Definiciones/Integridad.md",
-    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
-    "Seguridad/Desarrollo de Software Seguro/Desarrollo de Software Seguro.md",
-    "Grid.md",
-    "Sistema Informático.md",
     "Seguridad",
     "Desarrollo de Software Seguro/Untitled",
     "Criterios de Calidad/SQuaRE",

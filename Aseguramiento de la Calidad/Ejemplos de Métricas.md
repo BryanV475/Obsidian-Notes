@@ -1,5 +1,4 @@
 ## [[Fiabilidad]]
-
 - Número de errores en el programa
 - Número de errores en la documentación
 - Número de problemas que han aparecido en meses de uso
@@ -8,5 +7,4 @@
 - Porcentaje de usuarios con problemas
 
 ## [[Funcionalidad]]
-
 - 
