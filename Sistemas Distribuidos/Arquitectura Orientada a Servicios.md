@@ -1,0 +1,1 @@
+Es un tipo de arquitectura que permite reutilizar sus elementos usando interfaces de [[Servicio|servicios]] que se comunican a través de una red

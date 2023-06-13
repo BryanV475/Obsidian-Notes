@@ -1,1 +1,1 @@
-Hace referencia a la confidencialidad, integridad y disponibilidad de la información, independientemente del medio en que se almacenen los datos.
+Hace referencia a la [[confidencialidad]], [[integridad]] y [[disponibilidad]] de la información, independientemente del medio en que se almacenen los datos.

@@ -1,0 +1,1 @@
+Información adicional que describe o proporciona contexto sobre un archivo, documento, mensaje o cualquier tipo de dato. Estos metadatos no contienen el contenido real de los datos, pero brindan detalles sobre ellos, como su origen, fecha de creación, autor, ubicación, tamaño y otros atributos relevantes.

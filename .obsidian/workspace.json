@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d224691d8e5eb2a",
+        "id": "c0bee00c41d5fda0",
         "type": "tabs",
         "children": [
           {
-            "id": "b1c861aa5dda2c1f",
+            "id": "d4da63fe607080b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Seguridad/Casos de Abuso.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Seguridad/Casos de Abuso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Seguridad/Casos de Abuso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Seguridad/Casos de Abuso.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1c861aa5dda2c1f",
+  "active": "d4da63fe607080b7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Criterios de Calidad/Criterios de Calidad de Software.md",
-    "Aseguramiento de la Calidad/Pruebas de Usabilidad.md",
-    "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
-    "Aseguramiento de la Calidad/Cómo asegurar la calidad del software.md",
-    "Aseguramiento de la Calidad/Ejemplos de Métricas.md",
-    "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
-    "Aseguramiento de la Calidad/Calidad de software.md",
-    "Aseguramiento de la Calidad/Error, Defecto y Falla.md",
-    "Desarrollo de Videojuegos/Concreción de la Idea II.md",
-    "Seguridad/Ingeniería de la seguridad/Bloc.md",
+    "Seguridad/Desarrollo de Software Seguro/Desarrollo de Software Seguro.md",
+    "Seguridad/Casos de Abuso.md",
     "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+    "Casos de Abuso.md",
+    "Exito en un Proyecto Software.md",
+    "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
+    "Seguridad/Esteganografía.md",
+    "Aseguramiento de la Calidad/Calidad de software.md",
+    "Untitled.md",
+    "Clase 22-05-23.md",
+    "Sistemas Distribuidos/Servicio.md",
+    "Sistemas Distribuidos/Arquitectura Orientada a Servicios.md",
+    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
+    "Diseño de Aplicaciones Distribuidas.md",
+    "Grid.md",
+    "Seguridad/Metadatos.md",
+    "Seguridad/Exploit.md",
     "Seguridad/Ingeniería de la seguridad/Amenaza.md",
-    "Seguridad/Riesgo.md",
     "Seguridad/Vulnerabilidad.md",
-    "Seguridad/Ingeniería de la seguridad/Honeypots.md",
-    "Seguridad/Ingeniería de la seguridad/Ingeniería social.md",
-    "Seguridad/Ingeniería de la seguridad/Seguridad del Software.md",
-    "Seguridad/Ingeniería de la seguridad/Seguridad Informática.md",
-    "Seguridad/Ingeniería de la seguridad/Seguridad de la Información.md",
-    "Seguridad/Ingeniería de la seguridad/Troyano.md",
-    "Seguridad/Encriptación.md",
+    "Seguridad/Riesgo.md",
+    "Definiciones/Malware.md",
     "Seguridad/Enmascaramiento.md",
+    "Seguridad/Encriptación.md",
     "Seguridad/Ofuscación.md",
-    "Seguridad/Tokenización.md",
     "Seguridad/Trabajo en pareja.md",
+    "Metaexploit.md",
     "Seguridad",
     "Desarrollo de Software Seguro/Untitled",
     "Criterios de Calidad/SQuaRE",
