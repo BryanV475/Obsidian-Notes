@@ -1,0 +1,1 @@
+Un software es robusto si se comporta en forma razonable aún en circunstancias que no fueron anticipadas en la especificación de requerimientos

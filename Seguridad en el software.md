@@ -7,21 +7,19 @@ Seguridad en el software
 - OSVD
 - Desbordamiento de buffer
 - Cross-Site Scripting
-- inyeccion sql
 - condiciones de carrera
 - path traversal
-- **exploit**
 
-El software es cada vez mas complejo por lo que los fallos se veulven más difíciles de descubrir
-Las aplicaciones presentan defectos, debilidades de diseño y configuraciones inseguras
+El software es cada vez mas complejo por lo que los fallos se vuelven más difíciles de descubrir.
+Las aplicaciones presentan [[Error, Defecto y Falla#Defecto|defectos]], debilidades de diseño y configuraciones inseguras
 
-## Causas de la aparicion de vulnerabilidades
+## Causas de la aparición de vulnerabilidades
 - Tamaño excesivo y complejidad de aplicaciones
 - Mezcla de código de varios orígenes
 - Integración de los componentes del software defectuosa, estableciendo relaciones inadecuadas.
 - Debilidades y fallos en la especificación de requisitos y diseño
 - Falta de pruebas de seguridad basadas en el riesgo
-- Entornos de ejecución con componentes que contienen vulnerabilidades o código malicioso embebido
+- Entornos de ejecución con componentes que contienen [[Vulnerabilidad|vulnerabilidades]] o código malicioso embebido
 - Falta de herramientas y un entorno de prueba adecuados que simulen adecuadamente el entorno real de ejecución
 - Cambios de requisitos durante la etapa de codificación
 - Mezcla de equipos de desarrolladores
@@ -30,7 +28,6 @@ Las aplicaciones presentan defectos, debilidades de diseño y configuraciones in
 - No seguimiento de guías normalizadas de estilo de codificación
 - Fechas límite de entrega de proyectos inamovibles
 - Cambio en la codificación en base a requerimiento de nuevas funcionalidades
-- Tolerancia a los defectos
 - Aplicaciones desactualizadas en producción con parches correspondientes, configuraciones erróneas, etc.
 
 Las aplicaciones son amenazadas y atacadas no solo en su fase de operación sino en todas las fases de su ciclo de vida
