@@ -1,6 +1,3 @@
-El problema de la seguridad del software
-Seguridad en el software
-
 - Defensa en profundidad
 - Man-In-The-Middle
 - guias normalizadas de estilo en la codificación y ejemplo
@@ -10,8 +7,7 @@ Seguridad en el software
 - condiciones de carrera
 - path traversal
 
-El software es cada vez mas complejo por lo que los fallos se vuelven más difíciles de descubrir.
-Las aplicaciones presentan [[Error, Defecto y Falla#Defecto|defectos]], debilidades de diseño y configuraciones inseguras
+El software es cada vez mas complejo por lo que los fallos se vuelven más difíciles de descubrir. Las aplicaciones presentan [[Error, Defecto y Falla#Defecto|defectos]], debilidades de diseño y configuraciones inseguras.
 
 ## Causas de la aparición de vulnerabilidades
 - Tamaño excesivo y complejidad de aplicaciones

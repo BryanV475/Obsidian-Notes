@@ -7,7 +7,6 @@
 - [[Ramsomware]]
 - [[Esteganografía]]
 ## Herramientas
-
 - [[Burpsuite]]
 - [[Sqlmap]]
 - [[Ettercap]]

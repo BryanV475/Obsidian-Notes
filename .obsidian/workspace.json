@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Métricas de Calidad de Software/Métricas de Calidad de Software.md",
+                "file": "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Métricas de Calidad de Software/Métricas de Calidad de Software.md",
+                "file": "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Métricas de Calidad de Software/Métricas de Calidad de Software.md",
+                "file": "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Métricas de Calidad de Software/Métricas de Calidad de Software.md"
+                "file": "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "fe2a76581521af2d",
   "lastOpenFiles": [
-    "Criterios de Calidad/Criterios de Calidad de Software.md",
+    "Seguridad/Ingeniería de la seguridad/Ingeniería social.md",
+    "Seguridad/Ingeniería de la seguridad/Seguridad Informática.md",
+    "Seguridad/Ingeniería de la seguridad/Seguridad de la Información.md",
+    "Seguridad/Ingeniería de la seguridad/Amenaza.md",
+    "Seguridad/Ingeniería de la seguridad/Honeypots.md",
+    "Definiciones/Bugs.md",
+    "Seguridad/Ingeniería de la seguridad/Bloc.md",
+    "Seguridad Física.md",
+    "Seguridad en el software.md",
     "Métricas de Calidad de Software/Métricas de Calidad de Software.md",
+    "Criterios de Calidad/Criterios de Calidad de Software.md",
     "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
     "Aseguramiento de la Calidad/Ejemplos de Métricas.md",
     "Fundamentos de Ingeniería de Sofware/Ingeniería de Software.md",
@@ -162,18 +171,9 @@
     "Métricas de Calidad de Software/Cohesión.md",
     "Métricas de Calidad de Software/Complejidad Ciclomática.md",
     "Exito en un Proyecto Software.md",
-    "Seguridad en el software.md",
     "Definiciones/Robustez.md",
     "Seguridad/Desarrollo de Software Seguro/Robustez, Rendimiento y Seguridad del Software.md",
     "Seguridad/Desarrollo de Software Seguro/Preservación de la Confidencialidad.md",
-    "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
-    "Untitled.md",
-    "Seguridad/Casos de Abuso.md",
-    "Seguridad/Desarrollo de Software Seguro/Desarrollo de Software Seguro.md",
-    "Casos de Abuso.md",
-    "Seguridad/Esteganografía.md",
-    "Aseguramiento de la Calidad/Calidad de software.md",
-    "Sistemas Distribuidos/Servicio.md",
     "Seguridad",
     "Desarrollo de Software Seguro/Untitled",
     "Criterios de Calidad/SQuaRE",
