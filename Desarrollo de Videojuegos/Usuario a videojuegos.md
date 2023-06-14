@@ -1,0 +1,3 @@
+- Con el desarrollo de Spacewars se crea el primer controlador específico para un videojuego, creando el [[Dispositivos de entrada|dispositivo de entrada]] adaptado a videojuegos conocido como joystick, esto por parte de Atari.
+- El siguiente controlador importante fue el D-Pad (Directional Pad), de Nintendo, desarrollado para las diferentes consolas de esta empresa como la NES (Nintedno Entertainment System).
+- La siguiente generaciones fueron añadiendo más funcionalidades al diseño del D-Pad, este es el caso de Sony, con el Dual-Shock Controller, para las consolas Play Station.

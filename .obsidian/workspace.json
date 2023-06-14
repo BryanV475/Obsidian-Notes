@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe2a76581521af2d",
+            "id": "d8240a94f13c87d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "file": "Desarrollo de Videojuegos/Fases en la Producción de un Videojuego.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "file": "Desarrollo de Videojuegos/Fases en la Producción de un Videojuego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
+                "file": "Desarrollo de Videojuegos/Fases en la Producción de un Videojuego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md"
+                "file": "Desarrollo de Videojuegos/Fases en la Producción de un Videojuego.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe2a76581521af2d",
+  "active": "d8240a94f13c87d8",
   "lastOpenFiles": [
+    "Desarrollo de Videojuegos/Videojuegos Indie.md",
+    "Desarrollo de Videojuegos/Desarrollo de Videojuegos.md",
+    "Definiciones/Disponibilidad.md",
+    "Definiciones/Integridad.md",
+    "Desarrollo de Videojuegos/Usuario a videojuegos.md",
+    "Clasificacion.md",
+    "Definiciones/Dispositivos de entrada.md",
+    "Exito en un Proyecto Software.md",
+    "Seguridad en el software.md",
+    "Aseguramiento de la Calidad/Calidad de software.md",
+    "Aseguramiento de la Calidad/Pruebas de Usabilidad.md",
+    "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
+    "Aseguramiento de la Calidad/Cómo asegurar la calidad del software.md",
+    "Aseguramiento de la Calidad/Error, Defecto y Falla.md",
+    "Aseguramiento de la Calidad/Fundamentos para el Aseguramiento de la Calidad del Software.md",
+    "Sistemas Distribuidos/Aplicaciones Distribuidas.md",
+    "Sistemas Distribuidos/Applets.md",
+    "Sistemas Distribuidos/Cluster.md",
+    "Sistemas Distribuidos/Peer-to-Peer.md",
+    "Sistemas Distribuidos/Sistema Informático.md",
+    "Sistemas Distribuidos/Modelo Cliente-Servidor.md",
+    "Sistemas Distribuidos/Arquitectura de Aplicaciones Distribuidas.md",
+    "Seguridad/Ingeniería de la seguridad/Ingeniería de la Seguridad.md",
     "Seguridad/Ingeniería de la seguridad/Ingeniería social.md",
     "Seguridad/Ingeniería de la seguridad/Seguridad Informática.md",
     "Seguridad/Ingeniería de la seguridad/Seguridad de la Información.md",
-    "Seguridad/Ingeniería de la seguridad/Amenaza.md",
-    "Seguridad/Ingeniería de la seguridad/Honeypots.md",
-    "Definiciones/Bugs.md",
-    "Seguridad/Ingeniería de la seguridad/Bloc.md",
-    "Seguridad Física.md",
-    "Seguridad en el software.md",
-    "Métricas de Calidad de Software/Métricas de Calidad de Software.md",
-    "Criterios de Calidad/Criterios de Calidad de Software.md",
-    "Aseguramiento de la Calidad/Aseguramiento de la Calidad de Software.md",
-    "Aseguramiento de la Calidad/Ejemplos de Métricas.md",
-    "Fundamentos de Ingeniería de Sofware/Ingeniería de Software.md",
-    "Métricas de Calidad de Software/Comentarios en el Código.md",
-    "Métricas de Calidad de Software/Complejidad del Código.md",
-    "Métricas de Calidad de Software/Tiempo Medio entre Fallos.md",
-    "Métricas de Calidad de Software/Tasa de errores encontrados.md",
-    "Métricas de Calidad de Software/Cobertura de Código.md",
-    "Métricas de Calidad de Software/Acoplamiento.md",
-    "Métricas de Calidad de Software/Cohesión.md",
-    "Métricas de Calidad de Software/Complejidad Ciclomática.md",
-    "Exito en un Proyecto Software.md",
-    "Definiciones/Robustez.md",
-    "Seguridad/Desarrollo de Software Seguro/Robustez, Rendimiento y Seguridad del Software.md",
-    "Seguridad/Desarrollo de Software Seguro/Preservación de la Confidencialidad.md",
     "Seguridad",
     "Desarrollo de Software Seguro/Untitled",
     "Criterios de Calidad/SQuaRE",

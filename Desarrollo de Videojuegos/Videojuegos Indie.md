@@ -1,1 +1,1 @@
-La producción independiente suelen aportar cosas que los estudios grandes no dan
+Los videojuegos independientes, popularmente clasificados como Indies, son desarrollados por grupos reducidos de individuos o pequeñas empresas. No suelen contar con el apoyo financiero de distribuidores y publicistas, sino que su difusión depende principalmente de la voluntad de los jugadores para compartirlos con otros.
